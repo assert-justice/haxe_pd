@@ -1,0 +1,11 @@
+{
+    "name": "haxe_pd",
+    "url" : "https://github.com/assert-justice/haxe_pd",
+    "license": "MIT",
+    "tags": ["cross", "useless"],
+    "description": "Provides haxe language bindings for playdate.",
+    "version": "0.0.1",
+    "classPath": "src/",
+    "releasenote": "Initial release, everything is working correctly.",
+    "contributors": ["etmm"]
+}
